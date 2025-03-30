@@ -15,7 +15,7 @@ Languages:
 
 ## 📜 Documentation
 Please view our DevPost for more project details [here](https://devpost.com/software/climate-warriors)! <br>
-Please visit our Website [here (https://play.unity.com/en/games/e4f3e200-e539-42d9-a0c1-f05f939b6fda/webgl-builds)]()! <br>
+Please visit our Website [here](https://play.unity.com/en/games/e4f3e200-e539-42d9-a0c1-f05f939b6fda/webgl-builds)! <br>
 ```
 ```
 View the repository on Unity's Version Control [here](to be added)]! <br>
